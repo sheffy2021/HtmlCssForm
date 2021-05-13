@@ -7,6 +7,12 @@
     font-family: sans-serif;
 }
 
+nav{
+    background: rgba(20, 116, 206, 0.4);
+    padding: 10px;
+    color: blue;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.4);
+}
 
 body{
     background: url(img/166.jpg);
